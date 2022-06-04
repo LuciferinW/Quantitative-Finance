@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Coursera Course  - Learning to Program (The Fundamentals)"
+		},
+		{
+			"name": "Burp_Fart",
+			"path": "..\\..\\..\\Burp_Fart"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "local"
+	}
+}
